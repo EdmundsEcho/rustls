@@ -12,7 +12,7 @@ Rustls is used in production at many organizations and projects. We aim to maint
 reasonable API surface stability but the API may evolve as we make changes to accomodate
 new features or performance improvements.
 
-If you'd like to help out, please see [CONTRIBUTING.md](CONTRIBUTING.md).
+If you'd like to help out, please see [CONTRIBUTING.md](CONTRIBUTING.md), and be sure to visit our [Discord channel](https://discord.gg/MCSB76RU96).
 
 [![Build Status](https://github.com/rustls/rustls/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/rustls/rustls/actions/workflows/build.yml?query=branch%3Amain)
 [![Coverage Status (codecov.io)](https://codecov.io/gh/rustls/rustls/branch/main/graph/badge.svg)](https://codecov.io/gh/rustls/rustls/)
